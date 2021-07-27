@@ -1,0 +1,121 @@
+body{
+  margin:0;
+ text-align: center;
+
+
+}
+h1{
+  font-size: 80px;
+  font-family: 'Sacramento', cursive;
+  color:#66BFBF;
+  margin: 50px auto 0 auto;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  color:#66BFBF;
+  font-weight: normal;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color:#11999E;
+  text-align: left;
+}
+p{
+  text-align: left;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 20px;
+}
+.top-container{
+  background-color: #caf7e3;
+  position:relative;
+  padding-top: 50px;
+
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #EAF6F6;
+  border-width: 10px;
+  width:5%;
+}
+.profile-pic{
+  width:180px;
+  margin:30px;
+}
+.middle-container{
+background-color: #f8eded;
+}
+.bottom-container{
+  background-color: #66BFBF;
+}
+.skill-row{
+  width:50%;
+  margin:35px auto 53px auto;
+  line-height: 2;
+}
+.top-cloud{
+  position:absolute;
+  left: 1009px;
+top: 61px;
+}
+.bottom-cloud{
+  position:absolute;
+  left: 144px;
+  top: 403px;
+}
+.webD{
+  float:left;
+  margin-right: 30px;
+  height: 175px;
+}
+.DSA{
+float:right;
+margin-left: 30px;
+  height: 175px;
+}
+.Speaker{
+float:left;
+margin-right: 30px;
+  height: 175px;
+}
+.intro{
+  text-align: center;
+}
+.contact-me{
+  text-align: center;
+
+}
+.contact-description{
+  width:50%;
+  text-align: center;
+  display:inline-block;
+}
+.last-heading{
+  text-align: center;
+
+}
+.last-heading3{
+  text-align: center;
+  line-height: 2;
+}
+.footer-link{
+  text-decoration: none;
+  color:#11999E;
+  margin:10px;
+  line-height: 3;
+  font-size: 20px;
+}
+.btn{
+  border-radius: 50%;
+  background-color: #11999E;
+  text-decoration: none;
+  color: white;
+  padding:24px;
+  width: 242px;
+  display: inline-block;
+  height: 28px;
+  font-size: 25px;
+  margin: 25px;
+  }
